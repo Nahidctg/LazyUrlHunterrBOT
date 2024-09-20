@@ -25,7 +25,7 @@ class Config(object):
 
 📝 Language: <a href='https://www.python.org'>Python V3</a>
 
-📚 Library: <a href='https://docs.pyrogram.org'>Pyrogram</a>
+📚 Library: <a href='https://docs.pyrogram.org'>pyrogram>=2.0.30</a>
 
 📡 Server: <a href='https://heroku.com'>Heroku</a>
 
